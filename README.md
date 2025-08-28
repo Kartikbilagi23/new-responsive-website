@@ -22,8 +22,7 @@ The layout was inspired by external designs, but all code is written independent
 ---
 
 ## 📷 Screenshots
-![Desktop View](desktop-view.png)  
-![Mobile View](mobile-view.png)
+![Desktop View](desktop-view.png)  ![Mobile View](mobile-view.png)
 
 ---
 
